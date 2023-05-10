@@ -1,0 +1,165 @@
+body {
+  max-width: 1920px;
+}
+
+.header {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffe8d6;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 80px;
+  padding-left: 50px;
+}
+
+.menu {
+  padding-right: 30px;
+}
+
+.itens-menu {
+  font-family: "Amatic SC", cursive;
+  font-size: 25px;
+  font-weight: 700;
+  text-decoration: none;
+  padding-right: 30px;
+  letter-spacing: 5px;
+  color: #cb997e;
+}
+
+.principal {
+  display: flex;
+  align-items: center;
+  margin: 50px;
+}
+
+.principal-img {
+  width: 300px;
+  border-radius: 30px;
+  box-shadow: 3px 3px 3px 3px #b7b7a4;
+  margin-left: 15%;
+}
+
+.principal-title {
+  margin-left: 30px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.title-sub {
+  font-size: 100px;
+  margin-bottom: 20px;
+  color: #cb997e;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px 1px black;
+}
+
+.title-par {
+  font-size: 50px;
+  font-family: "Amatic SC", cursive;
+  letter-spacing: 4px;
+  text-align: center;
+  color: #3f4238;
+}
+
+.services {
+  background-color: #ffe8d6;
+  padding: 50px;
+}
+
+.services-title {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;
+  color: #cb997e;
+  letter-spacing: 5px;
+}
+
+.services-list {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+}
+
+.services-list-item {
+  font-family: "Amatic SC", cursive;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.portifolio {
+  margin: 50px;
+}
+
+.portifolio-title {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;
+  color: #cb997e;
+  letter-spacing: 5px;
+}
+
+.portifolio-img {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.portifolio-img-item {
+  width: 400px;
+}
+
+.form-title {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 50px;
+  color: #cb997e;
+  letter-spacing: 5px;
+  margin-bottom: 25px;
+}
+
+.form-itens {
+  font-family: "Amatic SC", cursive;
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-align: center;
+  align-items: center;
+  margin-top: 15px;
+  align-items: center;
+}
+
+.form-title-input {
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  margin-right: 10px;
+}
+.input-button {
+  font-family: 'Shadows Into Light', cursive;
+  background-color: #ffe8d6;
+  border: none;
+  padding: 10px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  margin-left: 45%;
+  margin-top: 15px;
+  border: 1px solid #b7b7a4;
+  margin-bottom: 50px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ffe8d6;
+  padding: 50px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  color: #cb997e;
+  font-weight: 700;
+}
+
+
+
